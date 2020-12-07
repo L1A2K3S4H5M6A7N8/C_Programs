@@ -13,17 +13,17 @@ Help Snow Howler deal with all the queries of type 1.
 Oshie has used two arrays:
 
 int* total_number_of_books;
-/*
- * This stores the total number of books on each shelf.
+
+ This stores the total number of books on each shelf.
+ 
+
+int** total_number_of_pages;
+
+  This stores the total number of pages in each book of each shelf.
+  The rows represent the shelves and the columns represent the books.
  */
 
-//int** total_number_of_pages;
-/*
- * This stores the total number of pages in each book of each shelf.
- * The rows represent the shelves and the columns represent the books.
- */
 
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
