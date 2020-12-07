@@ -17,7 +17,7 @@ int* total_number_of_books;
  * This stores the total number of books on each shelf.
  */
 
-int** total_number_of_pages;
+//int** total_number_of_pages;
 /*
  * This stores the total number of pages in each book of each shelf.
  * The rows represent the shelves and the columns represent the books.
